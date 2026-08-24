@@ -1,5 +1,9 @@
   SauceDemo Automation Framework
+# SauceDemo
 
+[![Playwright Tests](https://github.com/sharbeen/SauceDemo/actions/workflows/tests.yml/badge.svg)](https://github.com/sharbeen/SauceDemo/actions)
+
+Playwright automation test suite...
   This project is a test automation suite for the SauceDemo e-commerce website. It is designed to verify the end-to-end flow of a user from logging in to completing a purchase.
   
   🚀 Tech Stack

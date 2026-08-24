@@ -5,7 +5,7 @@ BASE_URL = "https://www.saucedemo.com"
 
 @pytest.fixture
 def browser(playwright:Playwright):
-    browser = playwright.chromium.launch(headless=False)
+    browser = playwright.chromium.launch()
     yield browser
     browser.close()
 
